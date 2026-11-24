@@ -1,0 +1,503 @@
+pedido_id,fecha,producto,ciudad,canal,unidades,precio_unitario,descuento,ingresos,estado
+1,2025-12-04,Manga,Madrid,Marketplace,5,10.62,0,53.1,Completo
+2,2025-09-20,Merchandising,Málaga,Online,1,12.02,0,12.02,Completo
+3,2025-05-26,Merchandising,Sevilla,Marketplace,7,13.07,0.1,82.34,Completo
+4,2025-02-03,Cómic americano,Málaga,Tienda,5,15.04,0,75.2,Pendiente
+5,2025-08-18,Manga,Zaragoza,Tienda,,14.33,0.15,60.9,Completo
+6,2025-06-19,Libro ilustrado,Barcelona,Marketplace,5,36.19,0.1,162.85,Completo
+7,2025-04-28,Manga,Madrid,Marketplace,4,14.1,0,56.4,Completo
+8,2025-04-22,Libro ilustrado,Bilbao,Tienda,6,25.18,0,151.08,Completo
+9,2025-05-21,Manga,Valencia,Marketplace,4,10.08,0.05,38.3,Completo
+10,2025-05-03,Novela gráfica,Madrid,Online,1,28.63,0.05,27.2,Completo
+11,2025-08-05,Merchandising,Zaragoza,Online,8,14.51,0.15,98.67,Completo
+12,2025-10-13,Cómic americano,Sevilla,Marketplace,5,20.9,0.05,99.27,Completo
+13,2025-02-05,Cómic americano,Valencia,Marketplace,8,14.4,0,115.2,Completo
+14,2025-09-09,Libro ilustrado,Barcelona,Tienda,7,32.33,0.05,214.99,Completo
+15,2025-03-15,Manga,Bilbao,Marketplace,6,9.74,0.05,55.52,Completo
+16,2025-11-17,Novela gráfica,Valencia,Marketplace,2,29.49,0,58.98,Completo
+17,2025-01-04,Cómic americano,Zaragoza,Online,1,19.43,0.05,18.46,Completo
+18,2025-02-24,Novela gráfica,Sevilla,Online,4,29.59,0,118.36,Pendiente
+19,2025-05-17,Manga,Valencia,Online,8,15.25,0,122.0,Pendiente
+20,2025-11-12,Cómic americano,Sevilla,Marketplace,5,17.45,0.15,74.16,Pendiente
+21,2025-01-19,Merchandising,A Coruña,Online,4,13.1,0,52.4,Completo
+22,2025-04-03,Merchandising,Sevilla,Online,2,17.09,0,34.18,Completo
+23,2025-04-18,Novela gráfica,Barcelona,Marketplace,4,21.68,0.05,82.38,Completo
+24,2025-02-04,Merchandising,A Coruña,Online,8,17.91,0,143.28,Pendiente
+25,2025-11-21,Novela gráfica,Málaga,Tienda,8,29.4,0,235.2,Completo
+26,2025-04-07,Manga,Málaga,Marketplace,6,14.28,0,85.68,Completo
+27,2025-04-28,Merchandising,A Coruña,Online,7,12.76,0.05,84.85,Completo
+28,2025-03-14,Libro ilustrado,Barcelona,Online,1,38.49,0,38.49,Pendiente
+29,2025-07-09,Libro ilustrado,Sevilla,Tienda,1,25.22,0,25.22,Pendiente
+30,2025-04-02,Novela gráfica,Málaga,Marketplace,8,20.04,0,160.32,Completo
+31,2025-03-02,Novela gráfica,Madrid,Online,8,24.64,0.1,177.41,Completo
+32,2025-07-04,Cómic americano,Barcelona,Marketplace,2,20.18,0,40.36,Completo
+33,2025-10-17,Merchandising,Madrid,Marketplace,2,14.71,0.1,26.48,Completo
+34,2025-03-22,Novela gráfica,Sevilla,Marketplace,6,21.15,0.05,120.55,Completo
+35,2025-02-03,Libro ilustrado,Zaragoza,Online,1,30.06,0.1,27.05,Completo
+36,2025-06-10,Merchandising,Bilbao,Online,6,18.52,0,111.12,Completo
+37,2025-05-22,Libro ilustrado,Bilbao,Marketplace,1,33.52,0.1,30.17,Completo
+38,2025-05-10,Cómic americano,Bilbao,Online,2,20.85,0,41.7,Completo
+39,2025-01-03,Novela gráfica,Sevilla,Marketplace,5,24.67,0,123.35,Pendiente
+40,2025-05-06,Novela gráfica,Madrid,Online,6,28.18,0.15,143.72,Pendiente
+41,2025-03-18,Merchandising,Málaga,Marketplace,1,12.17,0.15,10.34,Completo
+42,2025-01-12,Novela gráfica,Valencia,Tienda,3,18.55,0,55.65,Completo
+43,2025-03-08,Cómic americano,Barcelona,Tienda,7,23.14,0.15,137.68,Completo
+44,2025-07-26,Cómic americano,Málaga,Online,3,20.79,0,62.37,Completo
+45,2025-08-08,Novela gráfica,Valencia,Marketplace,2,23.05,0,46.1,Completo
+46,2025-04-13,Libro ilustrado,Zaragoza,Tienda,4,26.18,0.15,89.01,Completo
+47,2025-11-27,Novela gráfica,Barcelona,Tienda,6,26.47,0.05,150.88,Completo
+48,2025-01-04,Manga,,Tienda,3,12.83,0,38.49,Pendiente
+49,2025-04-09,Novela gráfica,Zaragoza,Tienda,2,23.08,0.1,41.54,Completo
+50,2025-11-11,Libro ilustrado,Madrid,Marketplace,4,28.51,0,114.04,Completo
+51,2025-07-23,Manga,Bilbao,Marketplace,5,13.4,0,67.0,Completo
+52,2025-11-24,Merchandising,Valencia,Online,7,16.74,0.05,111.32,Completo
+53,2025-07-26,Merchandising,Bilbao,Tienda,1,13.76,0,13.76,Completo
+54,2025-03-22,Libro ilustrado,A Coruña,Tienda,4,30.93,0.15,105.16,Completo
+55,2025-04-05,Novela gráfica,Zaragoza,Online,4,26.88,0,107.52,Completo
+56,2025-10-07,Manga,Sevilla,Tienda,2,12.01,0.15,20.42,Pendiente
+57,2025-02-25,Libro ilustrado,Málaga,Online,3,33.32,0,99.96,Pendiente
+58,2025-02-15,Cómic americano,Valencia,Marketplace,8,14.0,0,112.0,Completo
+59,2025-08-06,Libro ilustrado,Zaragoza,Tienda,7,36.2,0.1,228.06,Pendiente
+60,2025-08-21,Libro ilustrado,Bilbao,Online,5,35.14,0.1,158.13,Completo
+61,2025-06-18,Novela gráfica,A Coruña,Online,5,21.1,0,105.5,Completo
+62,2025-04-03,Cómic americano,Valencia,Online,7,20.37,0.15,121.2,Pendiente
+63,2025-07-13,Libro ilustrado,Zaragoza,Marketplace,8,29.36,0,234.88,Completo
+64,2025-07-28,Merchandising,Málaga,Tienda,1,19.03,0,19.03,Pendiente
+65,2025-01-13,Merchandising,Sevilla,Tienda,4,13.5,0.05,51.3,Completo
+66,2025-01-13,Libro ilustrado,Valencia,Tienda,3,38.68,0.1,104.44,Completo
+67,2025-07-11,Manga,Málaga,Online,8,10.2,0,81.6,Completo
+68,2025-05-27,Libro ilustrado,Zaragoza,Tienda,7,27.09,0.05,180.15,Completo
+69,2025-04-21,Libro ilustrado,Madrid,Marketplace,1,39.0,0,39.0,Completo
+70,2025-03-08,Manga,Madrid,Online,4,14.54,0.1,52.34,Completo
+71,2025-06-06,Libro ilustrado,Barcelona,Marketplace,4,30.17,0,120.68,Completo
+72,2025-11-13,Cómic americano,Bilbao,Online,1,22.7,0.1,20.43,Pendiente
+73,2025-11-20,Cómic americano,Barcelona,Marketplace,4,14.51,0,58.04,Completo
+74,2025-09-21,Merchandising,Madrid,Tienda,7,16.71,0,116.97,Completo
+75,2025-11-27,Manga,Málaga,Tienda,2,11.86,0,23.72,Pendiente
+76,2025-08-15,Cómic americano,Málaga,Online,5,19.6,0.1,88.2,Pendiente
+77,2025-05-15,Merchandising,Bilbao,Tienda,4,18.1,0,72.4,Completo
+78,2025-03-16,Libro ilustrado,Málaga,Tienda,1,30.66,0,30.66,Completo
+79,2025-05-18,Novela gráfica,Bilbao,Tienda,5,29.62,0.15,125.88,Completo
+80,2025-09-25,Merchandising,Sevilla,Online,4,17.19,0.05,65.32,Completo
+81,2025-07-23,Libro ilustrado,A Coruña,Tienda,1,24.04,0,24.04,Completo
+82,2025-09-11,Novela gráfica,Zaragoza,Tienda,6,23.62,0.15,120.46,Completo
+83,2025-04-11,Libro ilustrado,Bilbao,Tienda,5,26.3,0.15,111.77,Completo
+84,2025-12-19,Merchandising,Valencia,Online,4,17.34,0,69.36,Completo
+85,2025-01-23,Manga,Sevilla,Tienda,4,11.38,0,45.52,Completo
+86,2025-11-28,Novela gráfica,Madrid,Online,5,27.21,0,136.05,Pendiente
+87,2025-06-06,Manga,Madrid,Marketplace,5,12.1,0.05,57.47,Completo
+88,2025-10-21,Novela gráfica,A Coruña,Online,2,23.29,0,46.58,Completo
+89,2025-02-18,Cómic americano,Valencia,Marketplace,5,14.34,0,71.7,Pendiente
+90,2025-05-28,Merchandising,Sevilla,Marketplace,7,14.97,0.05,99.55,Pendiente
+91,2025-11-07,Novela gráfica,Madrid,Marketplace,2,30.51,0,61.02,Completo
+92,2025-01-14,Manga,Valencia,Online,3,12.64,0,37.92,Pendiente
+93,2025-05-23,Merchandising,A Coruña,Tienda,1,13.16,0.15,11.19,Pendiente
+94,2025-04-21,Manga,Sevilla,Tienda,4,11.81,0.1,42.52,Completo
+95,2025-10-24,Novela gráfica,Valencia,Online,1,20.19,0,20.19,Completo
+96,2025-09-18,Libro ilustrado,Barcelona,Tienda,5,34.05,0,170.25,Pendiente
+97,2025-06-20,Libro ilustrado,Barcelona,Marketplace,1,37.18,0.15,31.6,Completo
+98,2025-05-19,Manga,Barcelona,Online,1,15.6,0.15,13.26,Completo
+99,2025-10-14,Cómic americano,A Coruña,Marketplace,8,22.57,0,180.56,Pendiente
+100,2025-02-28,Manga,A Coruña,Tienda,7,11.2,0.15,66.64,Completo
+101,2025-09-02,Novela gráfica,Málaga,Marketplace,8,21.8,0.05,165.68,Pendiente
+102,2025-09-27,Manga,Zaragoza,Tienda,6,9.77,0.05,55.69,Completo
+103,2025-10-25,Merchandising,A Coruña,Tienda,1,12.8,0,12.8,Pendiente
+104,2025-08-23,Libro ilustrado,Madrid,Online,5,31.56,0,157.8,Pendiente
+105,2025-09-01,Manga,Madrid,Marketplace,4,13.68,0,54.72,Pendiente
+106,2025-03-16,Manga,Sevilla,Online,8,15.25,0.15,103.7,Completo
+107,2025-08-18,Merchandising,Bilbao,Tienda,8,19.34,0,154.72,Completo
+108,2025-07-11,Libro ilustrado,Sevilla,Marketplace,3,36.76,0,110.28,Completo
+109,2025-11-16,Manga,Bilbao,Marketplace,5,14.53,0.1,65.38,Completo
+110,2025-07-15,Libro ilustrado,,Tienda,6,31.61,0.1,170.69,Completo
+111,2025-01-11,Cómic americano,Sevilla,Marketplace,7,15.81,0.05,105.14,Pendiente
+112,2025-03-17,Libro ilustrado,,Marketplace,3,30.67,0,92.01,Completo
+113,2025-07-28,Manga,A Coruña,Online,8,9.1,0,72.8,Completo
+114,2025-11-03,Manga,,Tienda,6,13.11,0.05,74.73,Completo
+115,2025-10-03,Merchandising,Málaga,Tienda,8,18.45,0,147.6,Completo
+116,2025-11-23,Novela gráfica,Sevilla,Marketplace,2,23.73,0,47.46,Completo
+117,2025-06-26,Libro ilustrado,Valencia,Marketplace,5,37.41,0,187.05,Completo
+118,2025-07-19,Novela gráfica,Zaragoza,Tienda,7,19.92,0.1,125.5,Completo
+119,2025-08-19,Cómic americano,Valencia,Online,7,19.64,0,137.48,Completo
+120,2025-01-26,Cómic americano,A Coruña,Marketplace,5,18.05,0.15,76.71,Pendiente
+121,2025-05-21,Novela gráfica,Valencia,Online,8,30.48,0.1,219.46,Pendiente
+122,2025-02-08,Novela gráfica,A Coruña,Tienda,4,31.19,0.05,118.52,Pendiente
+123,2025-01-27,Merchandising,Zaragoza,Marketplace,5,19.44,0,97.2,Pendiente
+124,2025-08-27,Novela gráfica,Madrid,Marketplace,1,30.02,0.15,25.52,Completo
+125,2025-12-25,Cómic americano,Zaragoza,Online,4,19.65,0.15,66.81,Completo
+126,2025-12-05,Manga,Madrid,Tienda,8,9.22,0,73.76,Completo
+127,2025-09-12,Novela gráfica,Zaragoza,Marketplace,7,20.32,0,142.24,Completo
+128,2025-02-15,Cómic americano,Bilbao,Tienda,5,20.89,0,104.45,Completo
+129,2025-06-03,Cómic americano,Sevilla,Marketplace,7,23.08,0.1,145.4,Pendiente
+130,2025-12-22,Manga,Bilbao,Marketplace,2,12.0,0.15,20.4,Completo
+131,2025-08-01,Merchandising,Málaga,Marketplace,6,12.14,0,72.84,Completo
+132,2025-12-10,Merchandising,Sevilla,Marketplace,2,16.49,0.05,31.33,Pendiente
+133,2025-02-04,Manga,Valencia,Online,1,11.01,0.05,10.46,Completo
+134,2025-12-18,Merchandising,Valencia,Tienda,8,14.31,0.15,97.31,Pendiente
+135,2025-07-09,Merchandising,Valencia,Tienda,2,18.13,0.1,32.63,Completo
+136,2025-02-22,Novela gráfica,Sevilla,Tienda,8,30.55,0,244.4,Completo
+137,2025-08-03,Merchandising,Zaragoza,Online,7,13.53,0,94.71,Completo
+138,2025-10-07,Merchandising,Madrid,Online,6,13.26,0,79.56,Completo
+139,2025-06-25,Merchandising,Sevilla,Marketplace,4,17.96,0,71.84,Completo
+140,2025-05-26,Merchandising,Madrid,Tienda,3,19.4,0.1,52.38,Completo
+141,2025-10-11,Manga,Madrid,Online,1,11.36,0,11.36,Completo
+142,2025-02-24,Cómic americano,Bilbao,Online,3,20.84,0.1,56.27,Completo
+143,2025-10-02,Libro ilustrado,A Coruña,Tienda,2,29.96,0,59.92,Completo
+144,2025-11-04,Libro ilustrado,Madrid,Online,8,36.48,0.05,277.25,Pendiente
+145,2025-03-09,Libro ilustrado,Barcelona,Online,6,32.54,0,195.24,Completo
+146,2025-02-28,Libro ilustrado,Bilbao,Tienda,7,24.14,0.15,143.63,Completo
+147,2025-07-14,Libro ilustrado,A Coruña,Online,7,28.09,0.05,186.8,Completo
+148,2025-11-16,Novela gráfica,Málaga,Tienda,5,22.94,0,114.7,Completo
+149,2025-06-26,Manga,Barcelona,Online,7,9.64,0.15,57.36,Completo
+150,2025-06-28,Merchandising,Madrid,Marketplace,6,16.78,0.05,95.65,Pendiente
+151,2025-09-07,Manga,,Marketplace,5,11.32,0.1,50.94,Completo
+152,2025-02-25,Libro ilustrado,Sevilla,Online,6,36.45,0,218.7,Completo
+153,2025-12-09,Merchandising,Sevilla,Tienda,1,16.27,0.15,13.83,Completo
+154,2025-01-06,Cómic americano,Bilbao,Marketplace,5,22.62,0,113.1,Completo
+155,2025-02-24,Merchandising,Málaga,Online,3,17.36,0,52.08,Completo
+156,2025-12-11,Libro ilustrado,Málaga,Tienda,6,25.1,0,150.6,Completo
+157,2025-08-22,Manga,Valencia,Online,1,13.45,0,13.45,Pendiente
+158,2025-02-12,Libro ilustrado,A Coruña,Tienda,5,26.06,0.1,117.27,Pendiente
+159,2025-01-08,Manga,Bilbao,Marketplace,8,12.48,0,99.84,Pendiente
+160,2025-03-25,Merchandising,Madrid,Online,4,13.74,0,54.96,Completo
+161,2025-03-05,Novela gráfica,Zaragoza,Online,1,24.57,0.05,23.34,Pendiente
+162,2025-01-14,Merchandising,Sevilla,Marketplace,6,11.84,0.15,60.38,Completo
+163,2025-11-14,Libro ilustrado,Barcelona,Tienda,7,31.96,0.15,190.16,Completo
+164,2025-08-27,Manga,Málaga,Online,6,10.13,0.1,54.7,Completo
+165,2025-09-03,Manga,Málaga,Online,4,11.88,0.05,45.14,Pendiente
+166,2025-09-21,Novela gráfica,Zaragoza,Online,6,28.28,0,169.68,Completo
+167,2025-03-08,Merchandising,Sevilla,Tienda,6,17.25,0.15,87.97,Completo
+168,2025-02-06,Cómic americano,Bilbao,Online,3,19.46,0.15,49.62,Pendiente
+169,2025-06-05,Libro ilustrado,A Coruña,Marketplace,6,36.76,0.15,187.48,Pendiente
+170,2025-01-12,Manga,,Tienda,5,14.26,0.1,64.17,Completo
+171,2025-02-21,Novela gráfica,A Coruña,Tienda,1,18.75,0,18.75,Completo
+172,2025-11-07,Merchandising,Málaga,Tienda,1,14.96,0.1,13.46,Completo
+173,2025-02-26,Merchandising,A Coruña,Marketplace,3,19.15,0.05,54.58,Completo
+174,2025-09-17,Manga,Valencia,Online,4,13.67,0.05,51.95,Completo
+175,2025-11-20,Novela gráfica,Zaragoza,Tienda,7,23.4,0,163.8,Completo
+176,2025-05-09,Novela gráfica,Barcelona,Tienda,2,25.37,0.05,48.2,Completo
+177,2025-11-23,Novela gráfica,Barcelona,Marketplace,3,30.1,0,90.3,Pendiente
+178,2025-03-22,Cómic americano,Barcelona,Tienda,7,19.87,0,139.09,Completo
+179,2025-06-25,Libro ilustrado,,Online,6,27.6,0,165.6,Pendiente
+180,2025-09-25,Cómic americano,Sevilla,Online,3,14.26,0,42.78,Completo
+181,2025-12-25,Novela gráfica,Valencia,Marketplace,7,20.04,0,140.28,Completo
+182,2025-08-20,Libro ilustrado,Madrid,Tienda,6,33.66,0,201.96,Completo
+183,2025-04-12,Libro ilustrado,Sevilla,Marketplace,4,27.61,0.05,104.92,Pendiente
+184,2025-10-05,Libro ilustrado,Bilbao,Tienda,7,38.44,0,269.08,Completo
+185,2025-02-10,Manga,,Tienda,2,13.7,0.1,24.66,Completo
+186,2025-04-27,Cómic americano,Bilbao,Tienda,3,21.73,0,65.19,Pendiente
+187,2025-04-13,Novela gráfica,Madrid,Tienda,1,23.23,0,23.23,Completo
+188,2025-11-11,Novela gráfica,Sevilla,Online,6,30.29,0.15,154.48,Completo
+189,2025-12-16,Cómic americano,Madrid,Tienda,8,20.39,0,163.12,Pendiente
+190,2025-09-24,Merchandising,Madrid,Online,1,13.36,0,13.36,Pendiente
+191,2025-07-21,Manga,Bilbao,Online,5,9.8,0,49.0,Pendiente
+192,2025-04-23,Manga,Barcelona,Tienda,1,13.17,0.1,11.85,Completo
+193,2025-03-22,Novela gráfica,Málaga,Online,6,21.18,0.05,120.73,Completo
+194,2025-01-21,Merchandising,Zaragoza,Online,1,14.47,0.05,13.75,Pendiente
+195,2025-06-08,Novela gráfica,Bilbao,Marketplace,1,22.71,0,22.71,Completo
+196,2025-11-06,Merchandising,Zaragoza,Online,1,14.16,0,14.16,Pendiente
+197,2025-01-10,Libro ilustrado,Valencia,Online,2,34.31,0.05,65.19,Completo
+198,2025-07-27,Manga,Sevilla,Online,6,15.16,0.1,81.86,Pendiente
+199,2025-11-11,Novela gráfica,Madrid,Marketplace,4,21.78,0,87.12,Completo
+200,2025-06-06,Manga,Zaragoza,Tienda,7,13.91,0.05,92.5,Pendiente
+201,2025-07-03,Libro ilustrado,Zaragoza,Marketplace,5,35.72,0.15,151.81,Pendiente
+202,2025-06-22,Merchandising,Valencia,Marketplace,5,13.9,0,69.5,Completo
+203,2025-06-15,Novela gráfica,A Coruña,Marketplace,7,20.2,0.05,134.33,Completo
+204,2025-07-12,Novela gráfica,Málaga,Tienda,1,18.99,0.15,16.14,Completo
+205,2025-04-25,Manga,Valencia,Marketplace,8,9.23,0,73.84,Completo
+206,2025-08-12,Novela gráfica,Málaga,Marketplace,1,25.99,0.15,22.09,Completo
+207,2025-06-21,Libro ilustrado,Barcelona,Marketplace,3,31.24,0.05,89.03,Completo
+208,2025-09-04,Cómic americano,Barcelona,Online,3,18.44,0.05,52.55,Completo
+209,2025-04-04,Novela gráfica,A Coruña,Online,5,27.16,0.05,129.01,Completo
+210,2025-06-22,Manga,A Coruña,Online,8,15.58,0.15,105.94,Completo
+211,2025-11-06,Manga,Bilbao,Tienda,3,13.7,0.15,34.93,Completo
+212,2025-08-01,Merchandising,Sevilla,Online,4,17.78,0,71.12,Completo
+213,2025-02-10,Merchandising,Zaragoza,Tienda,3,16.3,0,48.9,Pendiente
+214,2025-11-03,Libro ilustrado,Málaga,Tienda,2,24.57,0,49.14,Pendiente
+215,2025-07-17,Libro ilustrado,Zaragoza,Online,3,35.17,0,105.51,Completo
+216,2025-04-12,Manga,Valencia,Tienda,3,10.07,0.15,25.68,Completo
+217,2025-10-18,Manga,Bilbao,Online,5,9.83,0,49.15,Completo
+218,2025-12-20,Merchandising,Valencia,Marketplace,3,12.66,0.1,34.18,Completo
+219,2025-10-09,Merchandising,Madrid,Online,2,11.63,0.15,19.77,Completo
+220,2025-09-10,Merchandising,Málaga,Marketplace,1,15.36,0.15,13.06,Completo
+221,2025-12-02,Libro ilustrado,Sevilla,Marketplace,7,27.41,0,191.87,Completo
+222,2025-03-11,Libro ilustrado,Málaga,Tienda,8,25.87,0.1,186.26,Completo
+223,2025-06-08,Novela gráfica,Málaga,Online,6,24.8,0,148.8,Pendiente
+224,2025-05-13,Manga,Bilbao,Tienda,4,9.93,0,39.72,Pendiente
+225,2025-08-17,Cómic americano,Valencia,Tienda,6,15.38,0,92.28,Pendiente
+226,2025-09-15,Libro ilustrado,Bilbao,Tienda,1,23.99,0.05,22.79,Completo
+227,2025-11-22,Cómic americano,Zaragoza,Online,1,16.29,0.1,14.66,Pendiente
+228,2025-12-12,Novela gráfica,Madrid,Online,7,19.77,0,138.39,Pendiente
+229,2025-06-18,Novela gráfica,Madrid,Tienda,1,25.53,0,25.53,Completo
+230,2025-10-22,Manga,Málaga,Marketplace,8,14.05,0,112.4,Completo
+231,2025-09-12,Cómic americano,Barcelona,Tienda,6,21.37,0,128.22,Completo
+232,2025-12-11,Cómic americano,Málaga,Marketplace,1,13.95,0,13.95,Pendiente
+233,2025-06-06,Merchandising,A Coruña,Online,3,13.96,0.1,37.69,Pendiente
+234,2025-09-16,Merchandising,Bilbao,Marketplace,6,15.44,0.1,83.38,Completo
+235,2025-10-10,Libro ilustrado,Madrid,Tienda,6,33.62,0.05,191.63,Completo
+236,2025-08-06,Merchandising,A Coruña,Tienda,4,17.2,0.1,61.92,Pendiente
+237,2025-06-14,Cómic americano,Sevilla,Online,2,15.39,0.05,29.24,Completo
+238,2025-12-02,Libro ilustrado,Sevilla,Tienda,8,36.9,0.15,250.92,Completo
+239,2025-09-13,Merchandising,Sevilla,Marketplace,6,19.48,0.05,111.04,Completo
+240,2025-12-22,Cómic americano,A Coruña,Marketplace,6,18.91,0.15,96.44,Completo
+241,2025-04-10,Merchandising,A Coruña,Online,4,13.55,0,54.2,Completo
+242,2025-05-10,Cómic americano,A Coruña,Tienda,8,16.95,0.15,115.26,Completo
+243,2025-05-02,Merchandising,Málaga,Tienda,6,19.13,0,114.78,Completo
+244,2025-04-27,Manga,Zaragoza,Tienda,,13.93,0,69.65,Completo
+245,2025-04-08,Merchandising,Bilbao,Online,2,16.33,0.1,29.39,Completo
+246,2025-06-23,Merchandising,Sevilla,Marketplace,4,11.68,0.05,44.38,Pendiente
+247,2025-08-21,Manga,Valencia,Online,3,11.69,0.05,33.32,Completo
+248,2025-11-19,Novela gráfica,Zaragoza,Tienda,1,29.98,0,29.98,Completo
+249,2025-01-27,Merchandising,Madrid,Online,7,18.53,0,129.71,Pendiente
+250,2025-05-19,Libro ilustrado,Valencia,Marketplace,5,36.97,0,184.85,Completo
+251,2025-09-15,Novela gráfica,Bilbao,Tienda,8,29.74,0,237.92,Completo
+252,2025-05-23,Cómic americano,Barcelona,Tienda,3,20.74,0.15,52.89,Completo
+253,2025-07-27,Manga,Zaragoza,Tienda,4,10.16,0.15,34.54,Pendiente
+254,2025-03-16,Merchandising,Zaragoza,Online,7,16.77,0,117.39,Completo
+255,2025-06-10,Cómic americano,Madrid,Tienda,7,15.83,0,110.81,Completo
+256,2025-08-10,Novela gráfica,Zaragoza,Marketplace,4,18.82,0,75.28,Completo
+257,2025-06-20,Libro ilustrado,Bilbao,Marketplace,2,33.04,0,66.08,Completo
+258,2025-06-14,Cómic americano,Valencia,Tienda,3,18.0,0.1,48.6,Pendiente
+259,2025-12-12,Merchandising,Sevilla,Online,2,15.59,0.1,28.06,Completo
+260,2025-03-11,Merchandising,Barcelona,Online,4,15.97,0,63.88,Pendiente
+261,2025-08-26,Manga,Sevilla,Marketplace,8,9.6,0.1,69.12,Completo
+262,2025-09-15,Libro ilustrado,Valencia,Marketplace,7,30.04,0,210.28,Completo
+263,2025-02-02,Manga,Málaga,Tienda,1,13.92,0.1,12.53,Pendiente
+264,2025-08-02,Novela gráfica,Barcelona,Marketplace,1,30.34,0,30.34,Completo
+265,2025-08-28,Libro ilustrado,Valencia,Online,7,28.68,0.05,190.72,Pendiente
+266,2025-02-06,Libro ilustrado,Barcelona,Marketplace,3,33.28,0,99.84,Pendiente
+267,2025-05-15,Merchandising,Valencia,Marketplace,4,18.14,0,72.56,Pendiente
+268,2025-05-07,Merchandising,Málaga,Online,4,15.05,0,60.2,Completo
+269,2025-02-20,Manga,Málaga,Marketplace,1,10.59,0,10.59,Completo
+270,2025-09-07,Libro ilustrado,Madrid,Online,1,29.14,0,29.14,Completo
+271,2025-06-08,Cómic americano,Bilbao,Online,6,19.22,0.15,98.02,Completo
+272,2025-10-24,Cómic americano,Sevilla,Tienda,,16.22,0.1,72.99,Completo
+273,2025-07-26,Libro ilustrado,A Coruña,Online,6,38.04,0.15,194.0,Completo
+274,2025-08-08,Libro ilustrado,Málaga,Online,5,28.71,0.1,129.2,Completo
+275,2025-09-17,Novela gráfica,Valencia,Tienda,1,25.42,0.05,24.15,Completo
+276,2025-08-28,Libro ilustrado,Sevilla,Tienda,4,27.95,0,111.8,Completo
+277,2025-10-02,Manga,Sevilla,Online,5,11.49,0.1,51.71,Completo
+278,2025-05-01,Cómic americano,Sevilla,Tienda,4,22.11,0,88.44,Completo
+279,2025-10-23,Cómic americano,Barcelona,Marketplace,8,22.55,0.15,153.34,Completo
+280,2025-08-18,Libro ilustrado,Sevilla,Marketplace,6,35.3,0.05,201.21,Completo
+281,2025-08-25,Novela gráfica,Bilbao,Tienda,8,24.15,0.15,164.22,Completo
+282,2025-12-05,Cómic americano,Zaragoza,Tienda,7,13.95,0,97.65,Completo
+283,2025-07-19,Novela gráfica,Málaga,Tienda,3,20.59,0,61.77,Completo
+284,2025-12-16,Libro ilustrado,Zaragoza,Tienda,8,38.45,0.15,261.46,Pendiente
+285,2025-03-18,Cómic americano,Zaragoza,Online,3,20.63,0.05,58.8,Completo
+286,2025-03-27,Merchandising,Madrid,Online,1,17.56,0.05,16.68,Completo
+287,2025-01-20,Manga,Valencia,Online,4,12.34,0,49.36,Pendiente
+288,2025-12-09,Libro ilustrado,Madrid,Online,,22.7,0.1,143.01,Completo
+289,2025-03-08,Manga,Málaga,Online,2,15.06,0.1,27.11,Completo
+290,2025-06-13,Merchandising,Bilbao,Tienda,5,17.81,0,89.05,Pendiente
+291,2025-11-28,Merchandising,Sevilla,Marketplace,4,13.72,0,54.88,Completo
+292,2025-11-01,Manga,Málaga,Tienda,7,12.65,0,88.55,Completo
+293,2025-09-02,Manga,A Coruña,Tienda,6,12.73,0,76.38,Completo
+294,2025-05-18,Cómic americano,A Coruña,Tienda,1,22.65,0.15,19.25,Completo
+295,2025-07-03,Cómic americano,Zaragoza,Online,4,19.31,0.15,65.65,Completo
+296,2025-06-13,Cómic americano,Sevilla,Marketplace,7,20.2,0.1,127.26,Completo
+297,2025-06-20,Manga,Zaragoza,Online,2,11.88,0,23.76,Pendiente
+298,2025-08-08,Novela gráfica,Madrid,Marketplace,5,28.34,0.05,134.61,Completo
+299,2025-07-03,Merchandising,Málaga,Tienda,3,16.86,0.15,42.99,Completo
+300,2025-11-05,Cómic americano,Barcelona,Online,5,15.03,0.15,63.88,Pendiente
+301,2025-08-12,Novela gráfica,Zaragoza,Online,2,18.07,0,36.14,Completo
+302,2025-09-17,Manga,Valencia,Online,3,11.84,0.1,31.97,Pendiente
+303,2025-10-26,Manga,Madrid,Online,6,12.66,0.1,68.36,Completo
+304,2025-12-18,Libro ilustrado,Madrid,Tienda,7,28.9,0,202.3,Completo
+305,2025-05-09,Merchandising,Valencia,Marketplace,7,12.65,0,88.55,Pendiente
+306,2025-08-26,Cómic americano,Barcelona,Online,7,16.23,0,113.61,Completo
+307,2025-08-04,Novela gráfica,Bilbao,Online,8,25.84,0,206.72,Completo
+308,2025-06-15,Novela gráfica,Madrid,Tienda,6,29.11,0.05,165.93,Completo
+309,2025-04-16,Libro ilustrado,Valencia,Tienda,6,32.45,0.15,165.5,Completo
+310,2025-08-19,Cómic americano,Málaga,Tienda,5,20.78,0.15,88.31,Completo
+311,2025-04-19,Novela gráfica,Málaga,Tienda,7,22.82,0.1,143.77,Completo
+312,2025-08-26,Merchandising,Madrid,Marketplace,8,19.03,0,152.24,Completo
+313,2025-04-09,Manga,Málaga,Marketplace,8,9.92,0,79.36,Completo
+314,2025-10-13,Libro ilustrado,Málaga,Online,8,38.85,0.05,295.26,Pendiente
+315,2025-11-22,Merchandising,Madrid,Tienda,2,12.15,0,24.3,Completo
+316,2025-07-04,Cómic americano,Madrid,Marketplace,7,23.07,0,161.49,Completo
+317,2025-08-25,Manga,Bilbao,Online,,11.94,0.05,45.37,Completo
+318,2025-02-27,Novela gráfica,Madrid,Tienda,2,21.9,0,43.8,Completo
+319,2025-08-12,Novela gráfica,Bilbao,Tienda,8,28.35,0.1,204.12,Pendiente
+320,2025-01-26,Manga,A Coruña,Marketplace,8,11.1,0,88.8,Completo
+321,2025-12-08,Manga,Zaragoza,Marketplace,2,13.47,0,26.94,Completo
+322,2025-07-21,Merchandising,Valencia,Tienda,7,19.16,0,134.12,Completo
+323,2025-08-19,Cómic americano,Málaga,Tienda,1,20.8,0,20.8,Pendiente
+324,2025-02-19,Libro ilustrado,Madrid,Marketplace,4,25.9,0.15,88.06,Completo
+325,2025-05-22,Merchandising,Valencia,Tienda,6,12.88,0,77.28,Pendiente
+326,2025-02-12,Merchandising,Zaragoza,Marketplace,7,16.29,0.1,102.63,Completo
+327,2025-02-22,Libro ilustrado,Valencia,Marketplace,5,37.66,0.1,169.47,Completo
+328,2025-12-05,Novela gráfica,Barcelona,Online,5,19.54,0,97.7,Pendiente
+329,2025-11-18,Libro ilustrado,Valencia,Marketplace,7,29.48,0.05,196.04,Completo
+330,2025-08-20,Merchandising,Valencia,Tienda,5,12.41,0,62.05,Completo
+331,2025-09-17,Novela gráfica,Madrid,Tienda,3,20.58,0.05,58.65,Pendiente
+332,2025-10-01,Libro ilustrado,A Coruña,Tienda,8,30.56,0,244.48,Completo
+333,2025-08-19,Novela gráfica,Madrid,Tienda,,25.1,0,100.4,Pendiente
+334,2025-06-18,Merchandising,Barcelona,Marketplace,2,13.46,0.1,24.23,Completo
+335,2025-04-10,Libro ilustrado,Sevilla,Tienda,2,34.64,0.15,58.89,Completo
+336,2025-04-07,Libro ilustrado,Bilbao,Tienda,2,29.74,0,59.48,Completo
+337,2025-01-19,Merchandising,Málaga,Online,3,17.73,0,53.19,Completo
+338,2025-05-10,Merchandising,Bilbao,Marketplace,3,13.92,0.15,35.5,Completo
+339,2025-11-05,Merchandising,Barcelona,Online,7,18.83,0,131.81,Completo
+340,2025-07-16,Cómic americano,,Marketplace,6,21.7,0.15,110.67,Completo
+341,2025-11-26,Merchandising,Bilbao,Marketplace,7,14.35,0,100.45,Completo
+342,2025-06-19,Libro ilustrado,Bilbao,Marketplace,6,30.0,0.05,171.0,Completo
+343,2025-07-07,Manga,A Coruña,Marketplace,6,14.61,0.1,78.89,Pendiente
+344,2025-09-19,Cómic americano,A Coruña,Tienda,6,21.7,0,130.2,Completo
+345,2025-08-01,Merchandising,A Coruña,Tienda,1,11.63,0.15,9.89,Completo
+346,2025-04-23,Cómic americano,A Coruña,Tienda,1,23.32,0.05,22.15,Completo
+347,2025-02-12,Novela gráfica,Valencia,Tienda,2,26.64,0,53.28,Completo
+348,2025-07-21,Manga,Málaga,Marketplace,5,13.79,0,68.95,Completo
+349,2025-04-17,Manga,Madrid,Online,8,9.51,0.1,68.47,Pendiente
+350,2025-12-05,Manga,Madrid,Marketplace,6,14.39,0.05,82.02,Pendiente
+351,2025-02-11,Manga,Sevilla,Tienda,2,13.82,0,27.64,Completo
+352,2025-03-03,Novela gráfica,Valencia,Tienda,3,26.47,0.15,67.5,Completo
+353,2025-12-05,Merchandising,Valencia,Tienda,6,17.21,0.15,87.77,Pendiente
+354,2025-02-19,Merchandising,A Coruña,Online,2,18.65,0,37.3,Pendiente
+355,2025-02-08,Novela gráfica,Málaga,Tienda,3,21.27,0.15,54.24,Completo
+356,2025-11-02,Manga,Bilbao,Online,4,13.94,0,55.76,Completo
+357,2025-02-17,Libro ilustrado,Málaga,Online,4,30.74,0.1,110.66,Completo
+358,2025-07-12,Novela gráfica,Zaragoza,Online,7,29.36,0.1,184.97,Completo
+359,2025-01-02,Libro ilustrado,Barcelona,Online,2,22.73,0,45.46,Pendiente
+360,2025-02-21,Merchandising,Bilbao,Marketplace,7,14.74,0.05,98.02,Completo
+361,2025-03-18,Novela gráfica,Barcelona,Tienda,2,24.75,0,49.5,Completo
+362,2025-01-08,Libro ilustrado,Barcelona,Tienda,7,34.54,0,241.78,Completo
+363,2025-11-24,Libro ilustrado,Barcelona,Tienda,1,27.6,0.15,23.46,Completo
+364,2025-08-12,Manga,Madrid,Marketplace,3,13.63,0,40.89,Completo
+365,2025-01-11,Cómic americano,Zaragoza,Online,5,20.76,0,103.8,Pendiente
+366,2025-06-02,Novela gráfica,Barcelona,Tienda,2,24.55,0.1,44.19,Pendiente
+367,2025-10-22,Merchandising,Valencia,Tienda,3,13.35,0,40.05,Completo
+368,2025-06-13,Cómic americano,Madrid,Online,1,15.92,0.05,15.12,Completo
+369,2025-07-24,Cómic americano,Madrid,Marketplace,7,15.72,0,110.04,Completo
+370,2025-01-06,Novela gráfica,Barcelona,Marketplace,6,19.58,0.15,99.86,Completo
+371,2025-05-11,Merchandising,Madrid,Tienda,2,18.49,0,36.98,Completo
+372,2025-05-24,Merchandising,A Coruña,Online,6,12.91,0.1,69.71,Completo
+373,2025-12-18,Libro ilustrado,Zaragoza,Marketplace,8,38.96,0,311.68,Completo
+374,2025-11-27,Cómic americano,Madrid,Tienda,1,15.81,0,15.81,Completo
+375,2025-05-04,Novela gráfica,Madrid,Marketplace,7,29.21,0.15,173.8,Completo
+376,2025-12-09,Merchandising,Sevilla,Tienda,8,19.18,0,153.44,Completo
+377,2025-08-24,Manga,Sevilla,Marketplace,7,13.63,0,95.41,Completo
+378,2025-02-19,Merchandising,Barcelona,Marketplace,3,16.51,0.05,47.05,Completo
+379,2025-07-23,Libro ilustrado,Valencia,Online,5,26.81,0,134.05,Completo
+380,2025-03-25,Novela gráfica,A Coruña,Tienda,4,18.99,0,75.96,Completo
+381,2025-02-18,Cómic americano,Barcelona,Online,8,18.11,0.05,137.64,Completo
+382,2025-02-06,Cómic americano,A Coruña,Tienda,8,16.12,0,128.96,Completo
+383,2025-04-12,Merchandising,Madrid,Online,6,12.47,0.15,63.6,Pendiente
+384,2025-01-13,Merchandising,Madrid,Marketplace,5,13.4,0,67.0,Pendiente
+385,2025-02-01,Merchandising,Sevilla,Online,8,12.09,0,96.72,Completo
+386,2025-11-03,Cómic americano,,Online,,17.19,0.15,102.28,Completo
+387,2025-03-03,Manga,Madrid,Online,4,14.96,0.05,56.85,Completo
+388,2025-07-27,Manga,Madrid,Tienda,1,10.11,0.1,9.1,Pendiente
+389,2025-03-09,Libro ilustrado,Madrid,Tienda,7,25.35,0,177.45,Completo
+390,2025-07-18,Libro ilustrado,Valencia,Online,4,33.18,0.05,126.08,Pendiente
+391,2025-11-26,Manga,Barcelona,Tienda,7,9.91,0,69.37,Completo
+392,2025-06-19,Merchandising,Madrid,Tienda,6,15.21,0.05,86.7,Completo
+393,2025-01-26,Libro ilustrado,Bilbao,Online,1,27.76,0,27.76,Completo
+394,2025-03-04,Manga,A Coruña,Marketplace,6,14.06,0,84.36,Completo
+395,2025-10-28,Cómic americano,Bilbao,Marketplace,1,21.06,0,21.06,Pendiente
+396,2025-12-12,Novela gráfica,Valencia,Online,4,25.82,0.15,87.79,Completo
+397,2025-09-10,Novela gráfica,Valencia,Marketplace,4,29.04,0.05,110.35,Completo
+398,2025-01-17,Libro ilustrado,Madrid,Online,1,26.34,0,26.34,Pendiente
+399,2025-12-06,Manga,Zaragoza,Marketplace,4,14.32,0,57.28,Completo
+400,2025-06-03,Manga,Madrid,Online,3,14.11,0.1,38.1,Completo
+401,2025-12-14,Libro ilustrado,Barcelona,Tienda,5,27.82,0,139.1,Pendiente
+402,2025-03-13,Novela gráfica,Valencia,Marketplace,6,20.95,0.1,113.13,Completo
+403,2025-07-28,Novela gráfica,Valencia,Online,1,30.52,0.1,27.47,Completo
+404,2025-08-05,Cómic americano,Zaragoza,Marketplace,4,19.83,0,79.32,Completo
+405,2025-12-22,Manga,Sevilla,Tienda,6,10.11,0,60.66,Completo
+406,2025-06-09,Libro ilustrado,Madrid,Tienda,4,26.62,0,106.48,Completo
+407,2025-07-16,Manga,Madrid,Tienda,8,13.84,0,110.72,Pendiente
+408,2025-11-25,Novela gráfica,Málaga,Online,8,28.41,0.1,204.55,Completo
+409,2025-05-04,Cómic americano,A Coruña,Online,1,16.42,0,16.42,Completo
+410,2025-02-11,Novela gráfica,Valencia,Tienda,3,27.66,0.1,74.68,Pendiente
+411,2025-03-02,Manga,Málaga,Marketplace,3,13.01,0.05,37.08,Completo
+412,2025-12-18,Novela gráfica,Sevilla,Online,7,27.2,0.15,161.84,Completo
+413,2025-09-27,Novela gráfica,Bilbao,Online,2,18.66,0.1,33.59,Pendiente
+414,2025-11-21,Cómic americano,Madrid,Tienda,1,17.73,0,17.73,Pendiente
+415,2025-02-16,Cómic americano,Barcelona,Online,4,15.19,0,60.76,Completo
+416,2025-02-21,Novela gráfica,Málaga,Tienda,8,29.81,0,238.48,Pendiente
+417,2025-05-15,Cómic americano,Zaragoza,Tienda,6,15.35,0,92.1,Pendiente
+418,2025-11-04,Novela gráfica,Sevilla,Tienda,1,19.99,0.15,16.99,Completo
+419,2025-09-14,Novela gráfica,Málaga,Marketplace,4,25.31,0.05,96.18,Pendiente
+420,2025-01-17,Merchandising,Sevilla,Tienda,5,11.9,0.15,50.57,Completo
+421,2025-03-02,Manga,A Coruña,Online,3,15.42,0,46.26,Pendiente
+422,2025-06-24,Manga,Málaga,Online,,14.51,0,43.53,Completo
+423,2025-09-15,Manga,Málaga,Marketplace,7,12.64,0,88.48,Completo
+424,2025-10-19,Merchandising,Málaga,Online,7,12.48,0.1,78.62,Completo
+425,2025-07-21,Manga,Barcelona,Tienda,6,14.79,0,88.74,Pendiente
+426,2025-10-20,Merchandising,A Coruña,Online,3,13.52,0,40.56,Pendiente
+427,2025-05-12,Manga,Málaga,Tienda,4,9.33,0.05,35.45,Completo
+428,2025-11-04,Novela gráfica,Bilbao,Tienda,5,29.13,0.15,123.8,Completo
+429,2025-05-24,Cómic americano,Bilbao,Marketplace,8,21.16,0,169.28,Pendiente
+430,2025-12-16,Merchandising,Barcelona,Online,8,12.99,0.05,98.72,Completo
+431,2025-03-25,Manga,Valencia,Online,5,13.68,0.05,64.98,Completo
+432,2025-01-12,Cómic americano,Sevilla,Online,1,15.97,0.05,15.17,Completo
+433,2025-11-01,Novela gráfica,Zaragoza,Tienda,7,26.39,0,184.73,Completo
+434,2025-10-18,Novela gráfica,A Coruña,Marketplace,8,20.34,0.05,154.58,Completo
+435,2025-01-06,Novela gráfica,Valencia,Tienda,2,21.76,0.05,41.34,Completo
+436,2025-09-01,Cómic americano,Sevilla,Marketplace,4,16.16,0.05,61.41,Completo
+437,2025-04-09,Libro ilustrado,Valencia,Marketplace,3,32.42,0,97.26,Completo
+438,2025-08-10,Novela gráfica,Málaga,Tienda,6,24.06,0,144.36,Pendiente
+439,2025-10-10,Merchandising,Barcelona,Online,6,15.88,0.1,85.75,Completo
+440,2025-06-28,Manga,A Coruña,Online,6,15.52,0.15,79.15,Completo
+441,2025-01-26,Novela gráfica,Bilbao,Online,3,24.83,0,74.49,Pendiente
+442,2025-05-14,Novela gráfica,Valencia,Marketplace,1,26.65,0,26.65,Pendiente
+443,2025-04-22,Libro ilustrado,Madrid,Marketplace,4,28.16,0.15,95.74,Pendiente
+444,2025-03-24,Novela gráfica,Bilbao,Online,3,21.88,0.05,62.36,Completo
+445,2025-06-08,Merchandising,Valencia,Marketplace,6,16.65,0,99.9,Completo
+446,2025-02-16,Libro ilustrado,Zaragoza,Tienda,5,32.16,0.05,152.76,Completo
+447,2025-07-17,Merchandising,Barcelona,Tienda,4,15.38,0.15,52.29,Completo
+448,2025-07-19,Libro ilustrado,Madrid,Online,3,38.87,0,116.61,Pendiente
+449,2025-06-21,Cómic americano,Zaragoza,Marketplace,3,21.21,0.05,60.45,Completo
+450,2025-10-25,Novela gráfica,Madrid,Online,8,21.61,0,172.88,Completo
+451,2025-07-16,Libro ilustrado,Barcelona,Online,7,32.95,0.05,219.12,Pendiente
+452,2025-06-25,Manga,Madrid,Marketplace,4,13.82,0,55.28,Completo
+453,2025-05-05,Manga,,Marketplace,4,10.49,0,41.96,Completo
+454,2025-05-15,Libro ilustrado,Bilbao,Online,2,36.09,0,72.18,Completo
+455,2025-03-26,Libro ilustrado,Valencia,Tienda,8,28.43,0,227.44,Pendiente
+456,2025-10-17,Manga,Sevilla,Online,3,10.39,0,31.17,Completo
+457,2025-05-25,Manga,Zaragoza,Marketplace,1,11.48,0.15,9.76,Completo
+458,2025-01-23,Merchandising,Madrid,Marketplace,2,16.64,0,33.28,Completo
+459,2025-12-05,Libro ilustrado,A Coruña,Tienda,2,31.53,0.05,59.91,Completo
+460,2025-10-20,Manga,Bilbao,Tienda,2,13.37,0,26.74,Completo
+461,2025-08-07,Libro ilustrado,Barcelona,Marketplace,2,27.16,0,54.32,Completo
+462,2025-09-16,Novela gráfica,Sevilla,Tienda,7,21.9,0,153.3,Completo
+463,2025-02-27,Libro ilustrado,Zaragoza,Online,1,22.71,0,22.71,Pendiente
+464,2025-05-21,Cómic americano,Barcelona,Marketplace,2,20.66,0,41.32,Completo
+465,2025-01-28,Libro ilustrado,Bilbao,Tienda,8,23.33,0,186.64,Completo
+466,2025-01-28,Novela gráfica,Zaragoza,Tienda,2,19.25,0,38.5,Completo
+467,2025-12-03,Cómic americano,Zaragoza,Tienda,8,22.96,0,183.68,Completo
+468,2025-05-27,Novela gráfica,Valencia,Online,7,23.28,0.05,154.81,Pendiente
+469,2025-12-02,Libro ilustrado,Málaga,Marketplace,3,24.37,0.15,62.14,Completo
+470,2025-08-06,Manga,Málaga,Marketplace,8,14.29,0.15,97.17,Pendiente
+471,2025-02-14,Novela gráfica,Madrid,Marketplace,3,24.38,0.05,69.48,Pendiente
+472,2025-09-25,Manga,Barcelona,Tienda,6,9.08,0.15,46.31,Completo
+473,2025-11-21,Novela gráfica,Barcelona,Tienda,4,24.36,0.15,82.82,Pendiente
+474,2025-08-28,Cómic americano,Madrid,Online,3,18.51,0.05,52.75,Completo
+475,2025-01-17,Manga,A Coruña,Tienda,4,11.18,0,44.72,Completo
+476,2025-10-15,Merchandising,Málaga,Tienda,4,11.9,0.05,45.22,Completo
+477,2025-11-01,Libro ilustrado,A Coruña,Tienda,2,38.68,0.15,65.76,Completo
+478,2025-10-21,Libro ilustrado,Málaga,Online,1,36.13,0.1,32.52,Completo
+479,2025-01-27,Merchandising,Sevilla,Marketplace,8,19.09,0,152.72,Completo
+480,2025-12-15,Libro ilustrado,Zaragoza,Marketplace,8,34.32,0,274.56,Completo
+481,2025-05-18,Manga,Sevilla,Online,6,11.34,0.15,57.83,Completo
+482,2025-12-24,Manga,Madrid,Online,8,9.93,0.15,67.52,Pendiente
+483,2025-04-15,Manga,Bilbao,Marketplace,4,10.24,0.05,38.91,Completo
+484,2025-10-04,Novela gráfica,Barcelona,Tienda,1,30.23,0.15,25.7,Pendiente
+485,2025-09-14,Libro ilustrado,Valencia,Tienda,1,31.25,0,31.25,Pendiente
+486,2025-02-13,Merchandising,Valencia,Marketplace,3,17.28,0,51.84,Completo
+487,2025-05-15,Merchandising,,Tienda,4,13.51,0,54.04,Completo
+488,2025-06-23,Cómic americano,Málaga,Marketplace,5,21.85,0.1,98.33,Completo
+489,2025-03-23,Cómic americano,Sevilla,Marketplace,5,20.3,0.15,86.27,Completo
+490,2025-08-19,Merchandising,Zaragoza,Marketplace,2,17.53,0.1,31.55,Pendiente
+491,2025-07-05,Merchandising,Bilbao,Tienda,1,15.56,0,15.56,Completo
+492,2025-05-05,Manga,Sevilla,Tienda,3,15.49,0.15,39.5,Completo
+493,2025-02-20,Novela gráfica,Sevilla,Marketplace,1,22.73,0.05,21.59,Completo
+494,2025-07-13,Merchandising,Málaga,Online,5,16.97,0,84.85,Pendiente
+495,2025-04-21,Novela gráfica,Madrid,Online,5,20.68,0.05,98.23,Completo
+496,2025-11-03,Merchandising,Sevilla,Marketplace,4,13.68,0,54.72,Completo
+497,2025-05-05,Cómic americano,Barcelona,Tienda,1,17.74,0.1,15.97,Completo
+498,2025-01-05,Merchandising,Bilbao,Online,6,15.1,0,90.6,Completo
+499,2025-09-12,Merchandising,Madrid,Marketplace,5,15.3,0.1,68.85,Completo
+500,2025-07-18,Novela gráfica,Sevilla,Online,2,28.38,0,56.76,Pendiente
+18,2025-02-24,Novela gráfica,Sevilla,Online,4,29.59,0,118.36,Pendiente
+502,2025-13-40,Manga,Madrid,Online,-2,12.0,0,-24.0,Completo
